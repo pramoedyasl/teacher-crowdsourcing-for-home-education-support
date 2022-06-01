@@ -1,0 +1,29 @@
+.bg-custom{
+	background-color: #716969 :important;
+	transition: 0.3s;
+	color: #FDF0D5; :important;
+}
+.bg-custom:hover{
+	background-color: #F0544F :important;
+	color: #fff :important;
+}
+.bg-custom-sm{
+	background-color: #black;:important;
+	transition: 0.3s;
+	color: #fff :important;
+}
+.bg-custom-sm:hover{
+	background-color: #F0544F :important;
+	color: #fff :important;
+}
+
+.navbar{
+	width: 100%;
+}
+.link-navbar{
+	color: white;
+	transition: 0.3s;
+}
+.link-navbar: hover{
+	color: #F0544F;
+}
