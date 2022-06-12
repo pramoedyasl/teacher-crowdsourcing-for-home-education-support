@@ -35,7 +35,7 @@
 
       <div class="panel">
           <div class="bio-graph-heading">
-             "Aku sayang mamah dan papah"-cypher 2022.
+             "biography of me"
           </div>
           <div class="panel-body bio-graph-info">
               <h1>Bio Graph</h1>

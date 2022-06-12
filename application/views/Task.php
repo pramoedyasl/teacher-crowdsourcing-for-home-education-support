@@ -89,6 +89,7 @@
               <td><?php echo $data->KisarHarga ?></td>
               <td>
                   <?php echo anchor('COBAAAA/Crud/edit/'.$data->Id_Task,'Edit'); ?>
+                  <br>
                             <?php echo anchor('COBAAAA/Crud/hapus/'.$data->Id_Task,'Hapus'); ?>
               </td>
           </tr>

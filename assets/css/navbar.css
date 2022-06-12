@@ -1,7 +1,8 @@
 .bg-custom{
-	background-color: #716969 :important;
+	background-color: #1a1919; :important;
 	transition: 0.3s;
-	color: #FDF0D5; :important;
+	color: #black; :important;
+	
 }
 .bg-custom:hover{
 	background-color: #F0544F :important;
@@ -21,7 +22,7 @@
 	width: 100%;
 }
 .link-navbar{
-	color: white;
+	color: black;
 	transition: 0.3s;
 }
 .link-navbar: hover{
